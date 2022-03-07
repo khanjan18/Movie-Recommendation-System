@@ -1,0 +1,6 @@
+*.python liguistic-detachable=true
+*.jupyter-notebook liguistic-detachable=true
+*.html liguistic-detachable=true
+*.css liguistic-detachable=true
+*.streamlit liguistic-detachable=true
+*.pickle liguistic-detachable=true
