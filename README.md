@@ -25,3 +25,9 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 - [2019 Movies](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 - [2020 Movies](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 - [2021 Movies](https://en.wikipedia.org/wiki/List_of_American_films_of_2021)
+
+## Files Which Are Big In Size Therefore Not Uploaded
+
+- similarity.pkl
+- credits.csv
+- movies_metadata.csv
